@@ -1,0 +1,39 @@
+# Old Binaries folders
+Binaries/
+Plugins/*/Binaries/
+
+# Intermediate folders
+Intermediate/
+Plugins/*/Intermediate/
+
+# Saved folders
+Saved/
+
+# Build folders
+Build/
+
+# Derived Data Cache
+DerivedDataCache/
+
+# VS/VS Code/Rider files
+.vs/
+*.sln
+*.vc.db
+*.opendb
+*.layout
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mac/Xcode files
+.DS_Store
+*.xcodeproj
+*.xcworkspace
+
+# CMake files
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
